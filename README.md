@@ -88,17 +88,9 @@ The final model was used to generate predictions for the competition test datase
 ```
 titanic-survival-prediction/
 │
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   └── gender_submission.csv
-│
-├── notebooks/
-│   └── titanic-analysis.ipynb
-│
-├── submissions/
-│   └── submission.csv
-│
+├── train.csv
+├── test.csv
+|── titanic.ipynb
 ├── README.md
 ├── requirements.txt
 
