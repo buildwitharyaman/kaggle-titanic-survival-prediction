@@ -133,6 +133,6 @@ This project helped me develop practical experience with:
 
 **Aryaman**
 
-High school student passionate about Artificial Intelligence, Machine Learning, and Robotics.
+Middle school student in 8th passionate about Artificial Intelligence, Machine Learning, and Robotics.
 
 GitHub: https://github.com/buildwitharyaman
